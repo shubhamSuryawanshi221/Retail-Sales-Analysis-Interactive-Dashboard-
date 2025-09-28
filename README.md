@@ -40,4 +40,5 @@ This project demonstrates how to analyze retail sales data in Excel by building 
 This project helped me practice **data cleaning, pivot tables, Excel formulas, and dashboard creation**. It also improved my ability to communicate insights with visualizations.  
 
 ---
-
+<img src="Sales Data.png" width="100%" />
+<img src="Jupyter.png" width="100%" />
