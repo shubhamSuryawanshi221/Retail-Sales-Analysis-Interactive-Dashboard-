@@ -41,4 +41,5 @@ This project helped me practice **data cleaning, pivot tables, Excel formulas, a
 
 ---
 <img src="Sales Data.png" width="100%" />
-<img src="Jupyter.png" width="100%" />
+<img src="Dashboard sheet.png" width="100%" />
+<img src="Profit Analysis.png" width="100%" />
